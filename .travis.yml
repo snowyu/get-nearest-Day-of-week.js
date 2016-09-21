@@ -10,6 +10,7 @@ node_js:
   - "2.3"
   - "4.0"
   - "5.0"
+  - "6.0"
 before_install:
   - npm install -g grunt-cli
   - npm install coffee-script
@@ -24,4 +25,4 @@ notifications:
 addons:
   code_climate:
     repo_token:
-      secure: "I235exbDYDnEE+NrfBYHt28/bBwjVZMRocXdNh7BQKfNjF/NjQKChFDoDhdn/i/K23HPp7S6TK0M5m3eFASZt502PscZHp90jT7u6ZerTHuSRq50a43v6+W4yWFgRTgda+WEjNzEwIFe0FYr4ZVQP9jfj9SZzRLJ1In3DPitdvdYH4TgQtGFNXMAVeWUO2dBHFCPgglPulQcxCXY2kiGLwcH1GyfUYRqjVyjp8eiybj/xwdrE47ijO16cbpdowWR7TW/v8taEwaOqh3Bzdpnf1rOZZEezxG6LYgYWD2hIK6RKsj3Cwofu9s0LJhjDL0/xK1vF3ssZhYfmnP/qsIxIf3CEB0FBjAEb2PbQG1xD7x5233SRiy4yizFqSzfJr9EnuR/IzYFNRkuAX0xyhKSDufvZc5Uhqv9bCnNNniv/UqTvAU5WUqZfwfWZCvStcAL53a56pq6YyS30eYoX38P117cCufnnr45hP1LYsP+q2qnIO5tQzqCg90aoQ5OL2UQxCdbs9CCWe8ID/cw6gFWHN0tMrp/EvAhdw51dVEto7DMWQj0wkTsSZJ3cLhV43Z9FaHuX/bafjEod7jW3a7O1S3k1wwE/0mM6D43ZLIBVO5lNyP1jzeDe4xuKgTu2ZXHrtrLeL7iR7SZuXJyl8xum+N/y5UsgDuRfQZ7w3A244A="
+      secure: "e43221af762c95af6cf6b3aa4b0d268a7068f9618c2a445393c0ca59f6b52209"

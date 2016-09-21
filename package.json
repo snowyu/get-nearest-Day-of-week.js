@@ -1,0 +1,76 @@
+{
+  "name": "get-nearest-day-of-week",
+  "description": "the function to get nearest day of week.",
+  "version": "0.1.2",
+  "homepage": "https://github.com/snowyu/get-nearest-day-of-week.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/snowyu/get-nearest-day-of-week.js.git"
+  },
+  "main": "./index",
+  "files": [
+    "README.md",
+    "LICENSE-MIT",
+    "*.js",
+    "*.coffee",
+    "test",
+    "src",
+    "lib"
+  ],
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "function",
+    "nearest",
+    "day-of-week"
+  ],
+  "dependencies": {
+    "moment": "^2.15.1",
+    "util-ex": "^0.3.15"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "chai-moment": "^0.1.0",
+    "coffee-coverage": "^1.0.1",
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-coffee": "~1.0.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-mocha-test": "~0.13.2",
+    "grunt-newer": "~1.2.0",
+    "grunt-release": "~0.14.0",
+    "istanbul": "^0.4.5",
+    "mocha": "~3.0.2",
+    "pre-commit": "~1.1.1",
+    "rimraf": "~2.5.4",
+    "shasum": "~1.0.2",
+    "sinon": "~1.17.6",
+    "sinon-chai": "~2.8.0"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "test-cov": "mocha --reporter dot && istanbul report text-summary lcovonly"
+  },
+  "contributors": [
+    {
+      "name": "Riceball LEE",
+      "email": "snowyu.lee@gmail.com",
+      "url": "https://github.com/snowyu"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Riceball LEE",
+      "email": "snowyu.lee@gmail.com"
+    }
+  ],
+  "pre-commit": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/snowyu/get-nearest-day-of-week.js/issues"
+  },
+  "license": "MIT"
+}

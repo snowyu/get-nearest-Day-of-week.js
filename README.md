@@ -10,12 +10,12 @@
 [npm-svg]: https://img.shields.io/npm/v/get-nearest-day-of-week.svg
 [npm-download-svg]: https://img.shields.io/npm/dm/get-nearest-day-of-week.svg
 [npm-license-svg]: https://img.shields.io/npm/l/get-nearest-day-of-week.svg
-[travis-svg]: https://img.shields.io/travis/snowyu/get-nearest-day-of-week.js/master.svg
-[travis]: http://travis-ci.org/snowyu/get-nearest-day-of-week.js
-[codeclimate-svg]: https://codeclimate.com/github/snowyu/get-nearest-day-of-week.js/badges/gpa.svg
-[codeclimate]: https://codeclimate.com/github/snowyu/get-nearest-day-of-week.js
-[codeclimate-test-svg]: https://codeclimate.com/github/snowyu/get-nearest-day-of-week.js/badges/coverage.svg
-[codeclimate-test]: https://codeclimate.com/github/snowyu/get-nearest-day-of-week.js/coverage
+[travis-svg]: https://img.shields.io/travis/snowyu/get-nearest-Day-of-week.js/master.svg
+[travis]: http://travis-ci.org/snowyu/get-nearest-Day-of-week.js
+[codeclimate-svg]: https://codeclimate.com/github/snowyu/get-nearest-Day-of-week.js/badges/gpa.svg
+[codeclimate]: https://codeclimate.com/github/snowyu/get-nearest-Day-of-week.js
+[codeclimate-test-svg]: https://codeclimate.com/github/snowyu/get-nearest-Day-of-week.js/badges/coverage.svg
+[codeclimate-test]: https://codeclimate.com/github/snowyu/get-nearest-Day-of-week.js/coverage
 
 
 The function return the date to get nearest day of week.
